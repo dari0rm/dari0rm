@@ -8,10 +8,10 @@
 </p>
 
 <div align="center">
-<span>
-<img src="https://giphy.com/gifs/animation-loop-internet-3ohc0R5MH4pjQrTu3m" width="23">
+
+<img src="https://media.giphy.com/media/3ohc0R5MH4pjQrTu3m/giphy.gif" width="23">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/dariorm/)
-</span>
 
 ## 💭 About me
 
