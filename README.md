@@ -1,7 +1,7 @@
 <h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
     Hi, welcome to Dario's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h3>
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11AAFF&center=true&vCenter=true&random=false&width=445&lines=Hi%2C+welcome+to+my+GitHub+page!;I+am+Dario+Rigueira;I+am+a+FullStack+developer;You+can+contact+me+here+below!" alt="Typing SVG" /></a>
@@ -65,7 +65,7 @@ I am a person passionate about technology and my professional goal is to use my 
 FullStack Developer
  
 <br>
-Thanks for visiting my GitHub profile!
+<u>Thanks for visiting my GitHub profile!</u>
 <br>
 
 </div>
