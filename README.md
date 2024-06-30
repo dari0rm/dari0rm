@@ -14,12 +14,11 @@
 ---
 <div align="center">
 
-
-
 ## 💭 About me 💭
 
 I am a person passionate about technology and my professional goal is to use my knowledge and skills to contribute to the development of innovative and quality solutions. I consider myself proactive, results-oriented and with teamwork skills. I am always willing to learn and adapt to new challenges.
  
+</br>
 
 ## 🚀 Skills 🚀
  
@@ -58,12 +57,14 @@ I am a person passionate about technology and my professional goal is to use my 
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![NetBeans IDE](https://img.shields.io/badge/NetBeans-e31f5b?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
  
+</br>
 
 ## 📈 GitHub Stats 📈
  
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dari0rm&show_icons=true&theme=radical)
  
- 
+</br>
+
 ## 🎨 Interests 🎨
  
 FullStack Developer
