@@ -1,22 +1,23 @@
-<h1 align="left">
+<h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34">
-    Hi, I am Dario
-</h1>
+    Hi, welcome to Dario's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34">
+</h2>
  
-<p align="left"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11AAFF&vCenter=true&random=false&width=445&lines=Hi%2C+welcome+to+my+GitHub+page!;I+am+Dario+Rigueira;I+am+a+FullStack+developer;You+can+contact+me+here+below!" alt="Typing SVG" /></a>
+<p align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11AAFF&center=true&vCenter=true&random=false&width=445&lines=Hi%2C+welcome+to+my+GitHub+page!;I+am+Dario+Rigueira;I+am+a+FullStack+developer;You+can+contact+me+here+below!" alt="Typing SVG" /></a>
 
 </p>
 
-<div align="left">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/dariorm/)
 
-## 💭 About me
+## 💭 About me 💭
 
 I am a person passionate about technology and my professional goal is to use my knowledge and skills to contribute to the development of innovative and quality solutions. I consider myself proactive, results-oriented and with teamwork capabilities. I am always willing to learn and adapt to new challenges.
  
-## 🚀 Skills
+## 🚀 Skills 🚀
  
 ### **Programming languages**:
 
@@ -53,13 +54,13 @@ I am a person passionate about technology and my professional goal is to use my 
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
   ![NetBeans IDE](https://img.shields.io/badge/NetBeans-e31f5b?style=for-the-badge&logo=apache%20netbeans%20ide&logoColor=white)
  
-## 📈 GitHub Stats
+## 📈 GitHub Stats 📈
  
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dari0rm&show_icons=true&theme=radical)
  
-## 🎨 Interests
+## 🎨 Interests 🎨
  
-- FullStack Developer
+FullStack Developer
  
 <br>
 Thanks for visiting my GitHub profile!
