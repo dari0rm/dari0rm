@@ -14,6 +14,8 @@
 ---
 <div align="center">
 
+</br>
+
 ## 💭 About me 💭
 
 I am a person passionate about technology and my professional goal is to use my knowledge and skills to contribute to the development of innovative and quality solutions. I consider myself proactive, results-oriented and with teamwork skills. I am always willing to learn and adapt to new challenges.
@@ -71,6 +73,5 @@ FullStack Developer
  
 <br>
 <u>Thanks for visiting my GitHub profile!</u>
-<br>
 
 </div>
