@@ -73,6 +73,6 @@ I am a person passionate about technology and my professional goal is to use my 
 FullStack Developer
  
 </br>
-<u>Thanks for visiting my GitHub profile!</u>
+<h4>Thanks for visiting my GitHub profile!</h4>
 
 </div>
