@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/dariorm/)
 </div>
+</br>
 
 ---
 <div align="center">
