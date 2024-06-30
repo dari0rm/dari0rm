@@ -6,11 +6,14 @@
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11AAFF&center=true&vCenter=true&random=false&width=445&lines=Hi%2C+welcome+to+my+GitHub+page!;I+am+Dario+Rigueira;I+am+a+FullStack+developer;You+can+contact+me+here+below!" alt="Typing SVG" /></a>
 </p>
+<div align="center"> 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/dariorm/)
+</div>
 
 ---
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/dariorm/)
 
 ## 💭 About me 💭
 
